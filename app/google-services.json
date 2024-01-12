@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "690828695085",
+    "project_id": "messagingappda",
+    "storage_bucket": "messagingappda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690828695085:android:a87e4fe2631a0134b2caa4",
+        "android_client_info": {
+          "package_name": "com.example.messagingappda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcOxc-niiNbOi2wyKN-X3JsOnZkRLKfcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690828695085:android:f8e83046b7261fabb2caa4",
+        "android_client_info": {
+          "package_name": "com.simcoder.whatsappclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcOxc-niiNbOi2wyKN-X3JsOnZkRLKfcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
